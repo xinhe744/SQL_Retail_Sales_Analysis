@@ -1,1 +1,81 @@
 
+                                               HR Workforce Analytics Dashboard  
+
+CONTEXT
+Organizations generate vast amounts of employee data, but without proper analysis and visualization, it remains difficult to identify workforce trends, risks, and opportunities. This project focuses on analyzing a comprehensive HR dataset to uncover critical insights around employee retention, diversity, promotions, and departmental performance. Using Excel and Power BI, the raw dataset was cleaned and transformed into an interactive **HR Workforce Analytics Dashboard that enables data-driven decision-making for talent management and organizational strategy.
+
+ DATASET INFORMATION
+Dataset: HR Employee Dataset  
+Source: Kaggle  
+Records Analyzed: 1,470 employees  
+Key Dimensions: Demographics, Job Role, Department, Tenure, Performance, and Satisfaction
+
+ OBJECTIVE
+The objective of this project was to build an interactive HR analytics dashboard to identify:
+- Workforce composition and diversity gaps
+- Attrition and lay-off trends
+- Promotion pipeline and succession risks
+- Departmental performance and retention challenges
+- Job satisfaction patterns across gender and departments
+
+The dashboard provides HR leaders with actionable insights to improve retention, diversity, and talent management strategies.
+
+## TOOLS USED
+- Microsoft Excel
+- Power BI
+
+## PROJECT WORKFLOW
+- Imported raw HR dataset into Excel and created a cleaned version for analysis
+- Performed data cleaning, standardization, and feature engineering
+- Loaded the dataset into Power BI using DAX to create new measures  and for visualization
+- Designed an interactive dashboard with slicers, KPI cards, charts, and departmental breakdowns
+- Optimized layout for clarity and professional presentation
+- Conducted in-depth analysis and derived strategic recommendations
+
+## KEY PERFORMANCE INDICATORS (KPIs)
+KPI	VALUE
+Total Employees           	1,470         
+Male / Female              	882 (60%) / 588 (40%)
+Lay-offs/Retain	117 (8.0%)/ 1,353 (92.0%)
+Attrition/ Active Staffs               	237 (16.1%) / 1,233 (83.9%)
+Employees Due for Promotion	72 (4.9%)   
+High Job Satisfaction     	1,244 (84.6%)
+
+
+
+
+
+## KEY INSIGHTS
+- High Talent Risk in Core Departments: Research & Development (961 employees) and Sales (446 employees) accounted for the majority of lay-offs (74 and 36 respectively), indicating significant restructuring pressure in the organization’s most critical functions.
+
+- Junior-Heavy Workforce Structure: Majority of employees have 1–5 years of service and are concentrated at Job Levels 1 and 2, creating strong promotion demand (72 employees) and potential future leadership gaps.
+
+- Gender Disparities: Females face a higher lay-off rate (8.7%) compared to males (7.5%). While both genders report high satisfaction, males show higher absolute numbers in low satisfaction categories.
+
+- Departmental Contrasts: 
+  - Sales has high lay-offs (36) despite strong satisfaction scores.
+  - HR Department remains relatively stable (only 7 lay-offs out of 63) with high satisfaction but low female representation (32%).
+  - R&D shows the highest volume of senior role exits (e.g., Research Directors).
+
+- Retention vs Satisfaction Gap: Although 84.6% of employees report high job satisfaction, the organization experienced 237 total attrition cases, suggesting that satisfaction metrics alone do not fully capture retention risks.
+
+RECOMMENDATIONS
+- Strengthen Retention in R&D and Sales: Implement targeted retention programs, competitive compensation reviews, and career progression paths for high-performing employees in these critical departments.
+
+- Address Gender Equity: Review lay-off criteria and decision processes to eliminate potential bias. Launch initiatives to improve female representation, especially in Sales and leadership roles.
+
+- Build Succession Pipeline: With a heavily junior workforce, prioritize leadership development programs and succession planning to mitigate future talent shortages.
+
+- Reconcile Satisfaction and Retention: Conduct deeper exit interviews and pulse surveys to understand underlying factors driving attrition despite reported high satisfaction.
+
+- Optimize Promotion Process: Streamline promotion criteria and timelines to reduce backlog and improve employee engagement.
+
+INTERPRETATION
+The HR Workforce Analytics Dashboard reveals a young, male-dominated organization facing notable talent retention challenges, particularly in Research & Development and Sales. While job satisfaction appears high overall, the elevated lay-off rate and promotion backlog signal urgent risks to long-term organizational stability.
+
+The analysis highlights the importance of moving beyond surface-level metrics to address structural issues in workforce planning, diversity, and career development. These insights demonstrate how effective HR analytics can support strategic talent management and foster a more resilient, inclusive workplace.
+
+CONCLUSION
+This project successfully transformed raw HR data into a professional, interactive analytics dashboard that delivers clear, actionable workforce intelligence. By uncovering critical insights around attrition, gender equity, departmental risks, and succession needs, the dashboard serves as a powerful tool for HR leaders and business stakeholders to make informed, data-driven decisions.
+
+
